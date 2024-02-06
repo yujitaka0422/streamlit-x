@@ -1,0 +1,7 @@
+python-dotenv
+numpy
+streamlit
+streamlit-webrtc
+twilio
+opencv-python-headless
+watchdog
